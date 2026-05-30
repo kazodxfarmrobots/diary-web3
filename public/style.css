@@ -1,0 +1,14 @@
+body.container {
+  padding-top: 70px;
+  padding-bottom: 200px;
+}
+:root {
+  scroll-behavior: auto;
+}
+p.card-text {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+body {
+    font-family: 'Playfair Display', serif;
+}

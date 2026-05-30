@@ -1,0 +1,16 @@
+{
+  "name": "diary-web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "5.13.0",
+    "dayjs": "1.11.10",
+    "http-auth": "4.2.0",
+    "prisma": "5.13.0",
+    "pug": "3.0.3"
+  }
+}
